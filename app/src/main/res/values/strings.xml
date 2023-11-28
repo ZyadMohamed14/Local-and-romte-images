@@ -1,0 +1,8 @@
+<resources xmlns:data="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">task</string>
+    <string name="img1">https://i.ibb.co/YTSf6Jw/img1.png</string>
+    <string name="img2">https://i.ibb.co/LtcZssp/img2.png</string>
+    <string name="img3">https://i.ibb.co/r3ZYGZN/img3.png</string>
+    <string name="img4">https://i.ibb.co/GptS7r6/img4.png</string>
+    https://i.ibb.co/GptS7r6/img4.png
+</resources>
